@@ -41,14 +41,14 @@
 
                 <TextView
                     android:id="@+id/textView2"
-                    android:layout_width="match_parent"
+                    android:layout_width="75dp"
                     android:layout_height="match_parent"
                     android:text="Cumpara"
                     android:visibility="invisible" />
 
                 <TextView
                     android:id="@+id/cumparid"
-                    android:layout_width="match_parent"
+                    android:layout_width="79dp"
                     android:layout_height="match_parent"
                     android:text="TextView"
                     android:visibility="invisible" />
@@ -73,7 +73,7 @@
                     android:visibility="invisible" />
 
                 <TextView
-                    android:id="@+id/vindarid"
+                    android:id="@+id/vindeid"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="TextView"
